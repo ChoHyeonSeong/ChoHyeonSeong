@@ -4,23 +4,24 @@
 ## 안녕하세요 BE 개발자로 성장해나가는 조현성입니다.
 
 ### Skills
-**Languages**
+**Languages**<br>
 ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/java-%23FFFFFF?style=for-the-badge&logo=openjdk&logoColor=%23000000)
-
-**Frameworks**
+<br>
+**Frameworks**<br>
 ![Static Badge](https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
-
-**Infras**
+<br>
+**Infras**<br>
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-
-**Tools**
+<br>
+**Tools**<br>
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+<br>
 
 ![ChoHyeonSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoHyeonSeong&show_icons=true&theme=radical&bg_color=FFFFFFFF)
 
