@@ -1,4 +1,4 @@
-![Waving]([https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A36C,100:90EE90&text=백엔드%20조현성&fontColor=FFFFFFFF&descAlign=0&descAlignY=51&fontAlign=34&fontAlignY=40))
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A36C,100:90EE90&text=백엔드%20조현성&fontColor=FFFFFFFF&descAlign=0&descAlignY=51&fontAlign=34&fontAlignY=40)
 
 <!--
 **ChoHyeonSeong/ChoHyeonSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
