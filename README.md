@@ -1,5 +1,5 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00A36C,100:90EE90&text=백엔드%20조현성&fontColor=FFFFFFFF&descAlign=0&descAlignY=51&fontAlign=34&fontAlignY=40)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoHyeonSeong&count_bg=%2379C83D&title_bg=%23555555&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **ChoHyeonSeong/ChoHyeonSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
