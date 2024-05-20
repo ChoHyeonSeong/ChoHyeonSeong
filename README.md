@@ -22,6 +22,8 @@
 **Tools**
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+![ChoHyeonSeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoHyeonSeong&show_icons=true&theme=radical&bg_color=FFFFFFFF)
+
 <!--
 **ChoHyeonSeong/ChoHyeonSeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
